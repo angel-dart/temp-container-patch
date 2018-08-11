@@ -4,7 +4,7 @@ description: Inversion of Control-container
 author: Emil Persson <emil.n.persson@gmail.com>
 homepage: https://github.com/dart-bridge/container
 environment:
-  sdk: ">=1.8.0 <2.0.0"
+  sdk: ">=1.8.0 <3.0.0"
 dev_dependencies:
   test: any
   testcase: any
